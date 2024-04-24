@@ -21,7 +21,7 @@ This repository offers a Dockerized setup for deploying a simple web application
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/your-username/docker-web-app.git
+    git clone https://github.com/henil4g/IA2_docker_compose.git
     cd docker-web-app
     ```
 
